@@ -12,7 +12,7 @@ http.createServer((req, res) => {
 const bot = mineflayer.createBot({
     host: 'crafteymen.mcsh.io',
     username: 'doblofar',
-    version: '1.21.11', // 1.21.1 olarak ayarlandı
+    version: '1.17.1', // 1.21.1 olarak ayarlandı
     viewDistance: 'tiny',
     storage: false,
 });
